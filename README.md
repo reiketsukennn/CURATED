@@ -3,8 +3,7 @@
 **CURATED** is a high-fidelity iOS application prototype developed to solve the challenge of discovering hidden gem cafes and restaurants. Built with a minimalist aesthetic, the app focuses on seamless user experience and clean visual hierarchy.
 
 ## 📱 App Preview
-*(Tip: Unggah salah satu gambar dari portofolio Anda ke repositori ini, lalu masukkan nama filenya di bawah)*
-![App Showcase](link-ke-foto-portofolio-anda.png)
+![App Showcase](CURATED.jpg)
 
 ## 🚀 Features
 * **Curated Discovery:** Hand-picked cafe and restaurant recommendations.
